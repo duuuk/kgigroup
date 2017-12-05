@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="500px" viewBox="0 0 375 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>stripes1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.77555756e-15%" x2="50%" y2="88.6416142%" id="linearGradient-1">
+            <stop stop-color="#14213D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#14213D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.77555756e-15%" x2="50%" y2="88.6416142%" id="linearGradient-2">
+            <stop stop-color="#FCA311" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FCA311" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-us" transform="translate(-1065.000000, -83.000000)">
+            <g id="stripes1" transform="translate(1065.000000, 33.000000)">
+                <polygon id="Rectangle-7-Copy-8" fill="url(#linearGradient-1)" opacity="0.800000012" transform="translate(152.541306, 446.709292) rotate(-300.000000) translate(-152.541306, -446.709292) " points="141.041306 293.899824 163.647338 277.209292 164.041306 601.221471 141.041306 616.209292"></polygon>
+                <polygon id="Rectangle-7-Copy-9" fill="url(#linearGradient-2)" transform="translate(321.541306, 94.709292) rotate(-300.000000) translate(-321.541306, -94.709292) " points="310.041306 -58.1001763 332.647338 -74.7907079 333.041306 249.221471 310.041306 264.209292"></polygon>
+                <path d="M163.825066,545.323602 L170.493267,536.488262 L170.493267,549.176845 L163.825066,545.323602 Z M179.362566,545.323602 L172.693267,549.176845 L172.693267,536.488262 L179.362566,545.323602 Z M172.694366,532.853807 L171.593267,531.276279 L170.493267,532.853807 L160.593267,545.97093 L170.493267,551.691463 L171.593267,552.276279 L172.694366,551.691463 L182.593267,545.97093 L172.694366,532.853807 Z" id="Fill-2-Copy-5" fill="#FFFFFF" transform="translate(171.593267, 541.776279) rotate(-120.000000) translate(-171.593267, -541.776279) "></path>
+                <path d="M7.82506641,294.323602 L14.4932667,285.488262 L14.4932667,298.176845 L7.82506641,294.323602 Z M23.3625664,294.323602 L16.6932667,298.176845 L16.6932667,285.488262 L23.3625664,294.323602 Z M16.6943661,281.853807 L15.5932667,280.276279 L14.4932667,281.853807 L4.59326674,294.97093 L14.4932667,300.691463 L15.5932667,301.276279 L16.6943661,300.691463 L26.5932667,294.97093 L16.6943661,281.853807 Z" id="Fill-2-Copy-6" fill="#FFFFFF" transform="translate(15.593267, 290.776279) rotate(-120.000000) translate(-15.593267, -290.776279) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

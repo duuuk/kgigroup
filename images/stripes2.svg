@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="393px" height="698px" viewBox="0 0 393 698" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>stripes2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.77555756e-15%" x2="50%" y2="89.4419859%" id="linearGradient-1">
+            <stop stop-color="#14213D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#14213D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="89.4419859%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#FCA311" offset="0%"></stop>
+            <stop stop-color="#14213D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="about-us" transform="translate(-612.000000, -364.000000)">
+            <g id="stripes2" transform="translate(612.000000, 364.000000)">
+                <rect id="Rectangle-7-Copy-6" fill="#F3F3F3" opacity="0.372735507" transform="translate(179.339193, 95.205883) rotate(-300.000000) translate(-179.339193, -95.205883) " x="178.139193" y="-73.9348729" width="2.4" height="338.281513"></rect>
+                <rect id="Rectangle-7-Copy-6" fill="#FCA311" transform="translate(211.739193, 85.609245) rotate(-300.000000) translate(-211.739193, -85.609245) " x="210.539193" y="-83.5315115" width="2.4" height="338.281513"></rect>
+                <path d="M41.6781596,49.2395403 L49.68,38.6408451 L49.68,53.8618132 L41.6781596,49.2395403 Z M60.3231596,49.2395403 L52.32,53.8618132 L52.32,38.6408451 L60.3231596,49.2395403 Z M52.3213192,34.2810263 L51,32.3886555 L49.68,34.2810263 L37.8,50.0160618 L49.68,56.8782974 L51,57.5798319 L52.3213192,56.8782974 L64.2,50.0160618 L52.3213192,34.2810263 Z" id="Fill-2" fill="#FCA311" transform="translate(51.000000, 44.984244) rotate(-120.000000) translate(-51.000000, -44.984244) "></path>
+                <polygon id="Rectangle-7-Copy-4" fill="url(#linearGradient-1)" opacity="0.800000012" transform="translate(210.800000, 592.440126) rotate(-300.000000) translate(-210.800000, -592.440126) " points="197 409.13297 224.127238 389.111345 224.6 777.78982 197 795.768908"></polygon>
+                <polygon id="Rectangle-7-Copy-2" fill="url(#linearGradient-2)" transform="translate(183.200000, 592.440126) rotate(-300.000000) translate(-183.200000, -592.440126) " points="169.4 409.13297 196.527238 389.111345 197 777.78982 169.4 795.768908"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
